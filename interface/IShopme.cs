@@ -1,5 +1,5 @@
 
-interface IShopme
+public interface IShopme
 {
     string AddProduct(Crud x);
     List<Crud>GetAllproduct();

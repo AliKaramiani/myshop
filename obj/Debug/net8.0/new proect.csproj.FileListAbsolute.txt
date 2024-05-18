@@ -135,3 +135,4 @@ C:\Users\Click\Desktop\shop.new\obj\Debug\net8.0\refint\new proect.dll
 C:\Users\Click\Desktop\shop.new\obj\Debug\net8.0\new proect.pdb
 C:\Users\Click\Desktop\shop.new\obj\Debug\net8.0\new proect.genruntimeconfig.cache
 C:\Users\Click\Desktop\shop.new\obj\Debug\net8.0\ref\new proect.dll
+C:\Users\Click\Desktop\shop.new\obj\Debug\net8.0\new proect.sourcelink.json

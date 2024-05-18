@@ -31,7 +31,7 @@ public class Shopme : IShopme
         result.Number = x.Number;
         result.Price = x.Price;
         result.ProductName = x.ProductName;
-        db.Tbl_OnlineShop.Update(x);
+        db.Tbl_OnlineShop.Update(result);
         db.SaveChanges();
         return "Done";
     }

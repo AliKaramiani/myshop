@@ -6,7 +6,13 @@ using Microsoft.AspNetCore.Mvc;
 
 public class Shop : ControllerBase
 {
-    Shopme un = new Shopme();
+    
+    private readonly IShopme un ;
+    public Shop(IShopme _un)
+    {
+        un=_un;
+    }
+
     [HttpPost]
     public string insert(Crud x)
     {
